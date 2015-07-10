@@ -1,0 +1,34 @@
+---
+layout: post
+title: "How I Learned Javascript"
+date: 2014-10-13T22:20:10-05:00
+---
+I recently took it upon myself to try and learn the field of web development. To do this you must learn a couple of different technologies and Javascript is definitely one of those. Javascript, aka "the language of the browser", is crucial to handle a variety of tasks and problems encountered developing for the web. From field validation, to creating an api, updating pages dynamically, or creating interactive menus. Javascript can do that. All you need to do is learn it...
+
+The first steps I took was to make myself familiar with syntax of the language. I hooped onto <a title="Codecademy" href="http://www.codecademy.com/">Codecademy</a> and went first through the <a title="jquery" href="https://jquery.com/">jQuery</a> track on the site. Wait. I thought this was how to learn Javascript?
+
+Didn't I tell you? I went about learning JS taking as many shortcuts as I could. (btw this was wrong)
+
+So, anyway. I finished up the jQuery track and at that point didn't know a lick of Javascript.  It's hard to even grasp jQuery without learning Javascript first, since, you know... it was written in Javascript. After a couple of months of struggling with basic concepts around scripting I went back and learned (and continue to learn) Javascript the hard (and correct) way. Here are the steps I took from this point.
+<h4>Online Resources</h4>
+Now, back to <a title="Codecademy" href="http://www.codecademy.com/">Codecademy</a>. I went through the Javascript track on this site and learned the basics of creating Javascript. The most useful part was practicing objects with Javascript and learning the available tools within the language.
+
+Throughout taking courses on Codecademy I used the <a title="javascript portion of MDN" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developer Network</a> as a reference. One of the best documentations of the language that I have found. I used the site quite often while I wrote both <a title="Creating a Snake game with Javascript" href="http://andrewschutt.net/blog/?p=13">snakejs</a> and <a title="Creating a Pong game with Javascript" href="http://andrewschutt.net/blog/?p=16">pongjs</a>
+
+Another site that has proven invaluable for me is <a href="http://jsfiddle.net/">jsfiddle.net</a>.  JSFiddle helps for troubleshooting problems that for the life of me I couldn't figure out why it just wouldn't run (spoiler: it was a semicolon).  More then that though it was a powerful sandbox that outclasses the one used within Codecademy curriculum.
+<h4>Books</h4>
+Two books have heavily aided in my learning Javascript.  These two books are far from a comprehensive list.  Many others exist that are highly rated within the Javascript community.
+
+Now each language has a "must" read book in order to be credible working with that language.  For Javascript that is "<a href="http://www.amazon.com/dp/0596517742/?tag=stackoverfl08-20">Javascript: The Good Parts" by Douglas Crockford</a>.  <a href="https://stackoverflow.com/questions/11246/best-resources-to-learn-javascript">Everywhere</a> I turned this book was recommended and highly touted. I sprang for the book early in my learning and it paid off big. The first time I worked through the book it felt like reading a foreign language. <a href="https://i.chzbgr.com/maxW500/667153664/hE447EFD9/">Honestly it was discouraging</a>. Despite these frustrations I continued with JS until I learned more about the syntax and methods. Came back to the book and unsurprisingly the book a little more sense.  I continued to grind at JS and again came back to the book a third time. More and more was clicking and falling into place (third time <em>is</em> the charm, right?). Examples I worked with and also had read about in the book gradually came to me. It was an especially gratifying moment in regards to learning object declarations. Good Parts is a must read for a reason and helps sink in all of the big topics associated with Javascript.
+
+The second book that has been an asset in my learning is <a href="http://eloquentjavascript.net/">"Eloquent Javascript" by Marijn Haverbeke</a>. This was a straight forward example driven programming book.  The difference being how code examples within a book were presented (in the online version). You are presented with half completed code and examples that are able to be edited live makes this a great learning device. Eloquent injunction with Codecademy will ensure a solid foundation of the Javascript language. Another fantastic resource for learning the language.
+<h4>Community</h4>
+Having a strong community has been an asset for my learning as well. After work I needed to drag myself to these meetings, but after each I always felt invigorated surrounding myself with people that had an infectious passion that was being passed off to me.
+
+Thankfully my locale gives me access to a great user group called <a title="dsmjs" href="http://dsmjs.com/">Des Moines JS</a> to gain exposure to new ideas and topics related to Javascript. The first meetings didn't accomplish much for me. Similar to the first read through of The Good Parts. Slowly as I learned more on my outside of DSMJS and I began to be follow along with the speakers. If you have the option to go and listen to more experienced individuals seize the chance.  The shared experience that is passed on will benefit the learning.
+
+Des Moines JS meets once a month and only have talks that last for an hour though. Attending the brief lectures helped give me a jolt, but I went to <a href="http://www.iowacodecamp.com/">Iowa Code Camp</a> it felt like a shot of double espresso. I turned my attention to the Javascript talks to gain additional knowledge and get a feel for what else is out there. On top of learning it was fun experiencing this conference to support the developer community within Iowa. In the future I plan on attending Code Camps as often as I possibly can.
+<h4>Mentor/Peer</h4>
+Lastly I was lucky enough to have an experienced mentor to help guide and push my learning. He was able to point me in the right direction or, more importantly, to help pick me up when I needed. Learning the ropes is tricky, especially on your own. With the correct guidance I was able to avoid pitfalls or recover quicker from trip ups. An important advantage that I got from a mentor was being able to discuss my learning and progress. Speaking with someone about what I was learning re-enforced it and led me to what I needed to focus on next.
+
+Well that's it so far. Pretty easy to learn as you can see. All you need to is practice, learn, read, discuss, and immerse yourself into it. Now that I have gotten the fundamentals down pat all that's left is to produce.  The easy part!

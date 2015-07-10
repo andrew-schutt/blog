@@ -1,0 +1,12 @@
+# Site settings
+title: Andrew Schutt
+email: schutt.andrew@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ideas and thoughts for Andrew Schutt -> www.andrewschutt.net  
+baseurl: /blog # the subpath of your site, e.g. /blog/
+url: "https://cartothemax.github.io/blog/" # the base hostname & protocol for your site
+twitter_username: schuttandrew
+github_username:  cartothemax
+
+# Build settings
+markdown: kramdown
