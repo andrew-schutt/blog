@@ -14,17 +14,12 @@ But what all is a regular expression?  And how can you unlock the power regular 
 
 First and foremost what does a simple regular expression look like?  Here is a basic example.  Lets open our handy IRB console and give this a whirl.
 
-```
-"Let me show you the chimes." =~ /chime/
-
-```
+    "Let me show you the chimes." =~ /chime/
 
 The above code will return the index that the start of the match occurs (in this case 20).  If a match had not been found `` `nil` `` would be returned instead. For the record this is just a glorified `` `.include?` `` and is basically useless.
 
-```
-"Where did all of the pie go?" =~ /mouth/ #returns nil
+    "Where did all of the pie go?" =~ /mouth/ #returns nil
 
-"Soft blanket and cold night.".include? "night" #returns true
+    "Soft blanket and cold night.".include? "night" #returns true
 
-```
 
