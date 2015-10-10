@@ -64,3 +64,25 @@ So that is how ranges work in a nutshell, but the cool part for ranges is that t
 * \S -> anything NOT whitespace
 
 * . -> matches anything not a newline character
+
+# Modifiers
+
+Regular expressions also have the idea of a modifer to give additional shorthand to some of the more lengthy options.
+
+    "Find capitalized Words in a Sentence" =~ /([A-Z])\w+/ #return 0 for first match
+    
+    "123.123.123.123" =~ /^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$/ #returns 0
+    
+The first example above will find any word that starts with a capilized letter.  The second will identify a correctly formatted ip address.
+
+# Exact Matching
+
+The second example above also makes use of exact matching to ensure that an exact match of the regex is found.  This will strictly enforce the match from the string start to end.
+
+    /^   $/   
+    
+    
+# Conclusion
+
+Welp, that's all for today regarding regular expressions.  For more information be sure to look at the [Ruby documentation](http://www.ruby-doc.org).
+
